@@ -1,5 +1,5 @@
 # ClimaVisionArtificial
-On the build directory, you'll find three directories one of them (fotosVision) has the photos taken by me for the inicial test.
+On the build directory, you'll find two directories. I had one more, "fotosVision" that has the photos taken by me for the inicial test. I couldn't upload that because of the size.
 
 Those photos were processed with the program "sun.cxx". It makes a histogram per photo with the percentage of pixels per intensity for the blue channel. I've classified each histogram in two directories, rain and notrain depending on if it was rainnig when I took the photo.
 
